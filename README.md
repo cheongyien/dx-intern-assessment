@@ -11,7 +11,7 @@ Expected outcome:
 2. The value should not give a negative value (eg: -5, -10, -100)
 3. The reset button should reset the value to 0
 
-:triangular_flag_on_post: [ My Task 1 - Counter App ](index.html)
+:triangular_flag_on_post: [ My Task 1 - Counter App ](https://github.com/cheongyien/dx-intern-assessment/index.html)
 
 ## Task 2:
 
@@ -22,7 +22,7 @@ Expected outcome:
 1. Ask for user input in Kilogram (Kg), convert to Pound and Milligram at the same time
 2. Able to show converted values
 
-:triangular_flag_on_post: [ My Task 2 - Weight Converter App ](task2.html)
+:triangular_flag_on_post: [ My Task 2 - Weight Converter App ](https://github.com/cheongyien/dx-intern-assessment/task2.html)
 
 # Instructions
 
