@@ -11,7 +11,7 @@ Expected outcome:
 2. The value should not give a negative value (eg: -5, -10, -100)
 3. The reset button should reset the value to 0
 
-:triangular_flag_on_post: [ My Task 1 - Counter App ](https://github.com/cheongyien/dx-intern-assessment/index.html)
+:triangular_flag_on_post: [ My Task 1 - Counter App ](https://github.com/cheongyien/dx-intern-assessment)
 
 ## Task 2:
 
