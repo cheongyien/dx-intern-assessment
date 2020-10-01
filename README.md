@@ -12,7 +12,6 @@ Expected outcome:
 3. The reset button should reset the value to 0
 
 :triangular_flag_on_post: [ My Task 1 - Counter App ](index.html)
-[:pushpin: Test](https://github.com/cheongyien/dx-intern-assessment/index.html)
 
 ## Task 2:
 
